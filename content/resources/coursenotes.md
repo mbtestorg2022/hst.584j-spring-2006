@@ -5,6 +5,7 @@ description: This resource contains information about table of contents, acronym
   theorems and introduction to imaging.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/924c7ccc55e459eccbe0f43d3ebc1a8f_coursenotes.pdf
 file_type: application/pdf
+parent_uid: 625055a0-f536-5228-6f8b-c5fbb0201a98
 resourcetype: Document
 title: coursenotes.pdf
 uid: 924c7ccc-55e4-59ec-cbe0-f43d3ebc1a8f
